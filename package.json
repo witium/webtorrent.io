@@ -35,7 +35,7 @@
     "prettier-bytes": "^1.0.3",
     "pug": "^2.0.0-beta4",
     "remarkable": "^1.6.2",
-    "semver": "^5.1.0",
+    "semver": "^5.5.0",
     "serve-index": "^1.8.0",
     "simple-get": "^2.3.0",
     "throttleit": "^1.0.0",
